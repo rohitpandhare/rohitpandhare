@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit Pandhare
 
-<!--
-**rohitpandhare/rohitpandhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Engineering Student at Terna Engineering College, Mumbai University  
+💡 Passionate about full-stack development, machine learning, and building impactful tech solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 [L.E.A.P. – Legal Education and Assistant Portal](https://leapindia.vercel.app/)
+A smart legal information system for the Indian Penal Code (BNS) with:
+- 📜 Legal document summarization
+- 🔍 Scenario-based legal query resolution
+- ⚖️ IPC to BNS auto-section conversion
+- 🔎 Intelligent document retrieval using NLP and ML  
+**Tech Stack:** ReactJS, ExpressJS, Python, ML, Google Cloud
+
+---
+
+### 🔹 [DoctorSync](http://35.223.133.251:3000/)
+A web platform for doctors to manage:
+- 🗓 Appointments
+- 💊 Remote prescription viewing
+- 📝 Secure medical data handling  
+**Tech Stack:** ExpressJS, EJS, MySQL
+
+---
+
+### 🔹 Face Attendance System
+Facial recognition-based attendance tracker:
+- 🎯 Achieved 96% recognition accuracy
+- 📷 Live camera integration using OpenCV  
+**Tech Stack:** Python, OpenCV, ML
+
+---
+
+## 🛠 Skills
+
+**Languages:** Python, Java  
+**Web:** HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS  
+**Database:** MySQL  
+**Other:** Tailwind CSS, NLP, Content Writing
+
+---
+
+## 📫 Connect with Me
+
+📍 Thane, Maharashtra  
+📧 [rohitpandhare06@gmail.com](mailto:rohitpandhare06@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohitpandhare)
+
+---
+
+📌 *Actively looking for full-time opportunities in Software Development / Web Development / ML Engineering.*
