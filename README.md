@@ -26,8 +26,16 @@ A web platform for doctors to manage:
 
   Images:
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-
----
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101451.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101512.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101529.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101615.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101629.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101750.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101806.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102134.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102148.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102242.png)
 
 ### 🔹 Face Attendance System
 Facial recognition-based attendance tracker:
