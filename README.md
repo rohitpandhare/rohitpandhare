@@ -24,6 +24,9 @@ A web platform for doctors to manage:
 - 📝 Secure medical data handling  
 **Tech Stack:** ExpressJS, EJS, MySQL
 
+  Images:
+  [https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png]
+
 ---
 
 ### 🔹 Face Attendance System
