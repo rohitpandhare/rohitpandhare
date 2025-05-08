@@ -7,6 +7,27 @@
 
 ## 🚀 Projects
 
+
+### 🔹 [DoctorSync](http://35.223.133.251:3000/)
+A web platform for doctors to manage:
+- 🗓 Appointments
+- 💊 Remote prescription viewing
+- 📝 Secure medical data handling  
+**Tech Stack:** ExpressJS, EJS, MySQL
+
+  Images:
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101451.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101512.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101529.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101615.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101629.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101750.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101806.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102134.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102148.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102242.png)
+
 ### 🔹 [L.E.A.P. – Legal Education and Assistant Portal](https://leapindia.vercel.app/)
 A smart legal information system for the Indian Penal Code (BNS) with:
 - 📜 Legal document summarization
@@ -35,26 +56,6 @@ Images:
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104235.png)
 
 ---
-
-### 🔹 [DoctorSync](http://35.223.133.251:3000/)
-A web platform for doctors to manage:
-- 🗓 Appointments
-- 💊 Remote prescription viewing
-- 📝 Secure medical data handling  
-**Tech Stack:** ExpressJS, EJS, MySQL
-
-  Images:
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101451.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101512.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101529.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101615.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101629.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101750.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101806.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102134.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102148.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102242.png)
 
 ### 🔹 Face Attendance System
 Facial recognition-based attendance tracker:
