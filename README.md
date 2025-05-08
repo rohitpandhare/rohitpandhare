@@ -16,36 +16,6 @@ A smart legal information system for the Indian Penal Code (BNS) with:
 **Tech Stack:** ReactJS, ExpressJS, Python, ML, Google Cloud
   
 Images:
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-
----
-
-### 🔹 [DoctorSync](http://35.223.133.251:3000/)
-A web platform for doctors to manage:
-- 🗓 Appointments
-- 💊 Remote prescription viewing
-- 📝 Secure medical data handling  
-**Tech Stack:** ExpressJS, EJS, MySQL
-
-  Images:
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103831.png)
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103842.png)
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103854.png)
@@ -63,6 +33,28 @@ A web platform for doctors to manage:
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104050.png)
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104224.png)
 ![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104235.png)
+
+---
+
+### 🔹 [DoctorSync](http://35.223.133.251:3000/)
+A web platform for doctors to manage:
+- 🗓 Appointments
+- 💊 Remote prescription viewing
+- 📝 Secure medical data handling  
+**Tech Stack:** ExpressJS, EJS, MySQL
+
+  Images:
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101451.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101512.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101529.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101615.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101629.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101750.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101806.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102134.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102148.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102242.png)
 
 ### 🔹 Face Attendance System
 Facial recognition-based attendance tracker:
