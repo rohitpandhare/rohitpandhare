@@ -25,7 +25,7 @@ A web platform for doctors to manage:
 **Tech Stack:** ExpressJS, EJS, MySQL
 
   Images:
-  [https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png]
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
 
 ---
 
