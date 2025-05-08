@@ -14,6 +14,27 @@ A smart legal information system for the Indian Penal Code (BNS) with:
 - ⚖️ IPC to BNS auto-section conversion
 - 🔎 Intelligent document retrieval using NLP and ML  
 **Tech Stack:** ReactJS, ExpressJS, Python, ML, Google Cloud
+  
+Images:
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
 
 ---
 
@@ -25,17 +46,23 @@ A web platform for doctors to manage:
 **Tech Stack:** ExpressJS, EJS, MySQL
 
   Images:
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101432.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101451.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101512.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101529.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101615.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101629.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101750.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20101806.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102134.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102148.png)
-![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20102242.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103831.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103842.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103854.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103910.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104202.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104209.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103922.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104217.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20103931.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104001.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104224.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104235.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104031.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104042.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104050.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104224.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Screenshot%202025-05-08%20104235.png)
 
 ### 🔹 Face Attendance System
 Facial recognition-based attendance tracker:
