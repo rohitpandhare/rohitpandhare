@@ -63,6 +63,18 @@ Facial recognition-based attendance tracker:
 - 📷 Live camera integration using OpenCV  
 **Tech Stack:** Python, OpenCV, ML
 
+Images:
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/login.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Main_Window.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Add_User.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Add_Student.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Mark_Attendance_Subject_Wise.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/All_Stats.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Student_Wise_Stat.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Generate_Report.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Subject_Wise_Report.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Modify_Student.png)
+![Image Alt Text](https://github.com/rohitpandhare/rohitpandhare/blob/main/static/Update_Student.png)
 ---
 
 ## 🛠 Skills
